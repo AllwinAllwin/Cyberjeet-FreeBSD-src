@@ -1,3 +1,0 @@
-
-RISCV				opt_global.h	# For cpu RISCV to work
-INTRNG				opt_global.h

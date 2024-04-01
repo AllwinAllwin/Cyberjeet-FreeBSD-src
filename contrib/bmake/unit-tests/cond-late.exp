@@ -1,4 +1,0 @@
-make: Bad conditional expression ' != "no"' before '?:'
-yes
-no
-exit status 0

@@ -1,2 +1,0 @@
-
-SUBDIR_PARALLEL= t
